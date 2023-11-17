@@ -1,5 +1,4 @@
 # E-Commerce
-# Big Brain Inventory Store
 
 This project was created while following along with this tutorial from LinkedIn Learning: https://www.linkedin.com/learning/azure-microservices-with-dot-net-core-for-developers
 
