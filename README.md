@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce :keyboard:
 
 This project was created while following along with this tutorial from LinkedIn Learning: <a href="https://www.linkedin.com/learning/azure-microservices-with-dot-net-core-for-developers">Video Tutorial</a>
 
